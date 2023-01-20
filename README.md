@@ -1,6 +1,6 @@
-# Algorithm Study📚📌📜📃📒📜📄📑📰🗃💸🔑🔒🔐⛳
+# Algorithm Study
 
-## Algorithhm 종류
+## 📚 Algorithhm 종류
 
 - 그리디
 - DP (다이나믹 프로그래밍)(동적 계획법)
@@ -10,14 +10,13 @@
 
 ## 📌 규칙
 
-1. 무조건 PULL 하고 PUSH 하기
+1. 무조건 PULL 먼저 하고 PUSH 하기
 2. PUSH 할 떄
-  BOJ/ algorithm 종류/ [문제번호] 문제 이름/ 자기 이름/ src
-  BOJ/ algorithm 종류/ [문제번호] 문제 이름/ 자기 이름/ README.md
+  - BOJ/ algorithm 종류/ [문제번호] 문제 이름/ 자기 이름/ src
+  - BOJ/ algorithm 종류/ [문제번호] 문제 이름/ 자기 이름/ README.md
 
-  ex) BOJ/DP/[1562] 계단수/ini/boj1562.py
-      BOJ/DP/[1562] 계단수/ini/README.md
-3. 
+ex) BOJ/DP/[1562] 계단수/ini/boj1562.py
+    BOJ/DP/[1562] 계단수/ini/README.md
 
 ## 📅 스터디 일정
 |주차|1|2|3|
