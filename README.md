@@ -22,4 +22,4 @@
 ## 📅 스터디 일정
 |주차|1|2|3|
 |:------:|:---:|:---:|:----:|
-|1주차</br> (23.01.18 ~ 23.01.25)|[2xn 타일링](https://www.acmicpc.net/problem/11726,2xn 타일링)|[1로 만들기](https://www.acmicpc.net/problem/1463,1로 만들기)|[정수 삼각형](https://www.acmicpc.net/problem/1932, 정수 삼각형)|
+|1주차</br> (23.01.18 ~ 23.01.25)|[2xn 타일링](https://www.acmicpc.net/problem/11726, "2xn 타일링")|[1로 만들기](https://www.acmicpc.net/problem/1463, "1로 만들기")|[정수 삼각형](https://www.acmicpc.net/problem/1932, "정수 삼각형")|
