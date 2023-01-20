@@ -12,8 +12,8 @@
 
 1. 무조건 PULL 먼저 하고 PUSH 하기
 2. PUSH 할 떄</br>
- - BOJ/ algorithm 종류/ [문제번호] 문제 이름/ 자기 이름/ src</br>
- - BOJ/ algorithm 종류/ [문제번호] 문제 이름/ 자기 이름/ README.md
+ - BOJ/ [algorithm 종류][문제번호] 문제 이름/ 자기 이름/ src</br>
+ - BOJ/ [algorithm 종류][문제번호] 문제 이름/ 자기 이름/ README.md
 
 ex) BOJ/DP/[1562] 계단수/ini/boj1562.py</br>
   BOJ/DP/[1562] 계단수/ini/README.md
