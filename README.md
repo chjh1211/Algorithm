@@ -21,5 +21,5 @@ ex) BOJ/DP/[1562] 계단수/ini/boj1562.py</br>
 ## 📅 스터디 일정
 |주차|1|2|3|
 |:------:|:---:|:---:|:----:|
-|1주차</br> (23.01.18 ~ 23.01.25)|[2xn 타일링](https://www.acmicpc.net/problem/1149)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|
-|2주차</br> (23.01.25 ~ 23.02.01)|[RGB거리](https://www.acmicpc.net/problem/11726)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[계단 수](https://www.acmicpc.net/problem/1562)|
+|1주차</br> (23.01.18 ~ 23.01.25)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|
+|2주차</br> (23.01.25 ~ 23.02.01)|[RGB거리](https://www.acmicpc.net/problem/1149)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[계단 수](https://www.acmicpc.net/problem/1562)|
